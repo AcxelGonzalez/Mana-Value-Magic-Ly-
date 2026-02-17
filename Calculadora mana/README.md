@@ -76,47 +76,6 @@ Calculadora mana/
 └── README.md              # Este archivo
 ```
 
-## 🎯 Casos de Uso Específicos
-
-### Para Omnath, Locus of the Roil
-
-**Activar Omnath en turno 4**:
-1. Necesitas 4 tierras en turno 4 (11 cartas vistas)
-2. Calcula: "Probabilidad de tierras en mano" + robos adicionales
-3. Con 37 tierras, tienes ~85% de tener 4 tierras en turno 4
-
-**Landfall triggers**:
-1. Calcula probabilidad de tener ramp (Cultivate, etc.)
-2. Cada ramp = triggers adicionales de Omnath
-
-**Elementales tribales**:
-1. Omnath da +1/+1 a otros elementales
-2. Calcula probabilidad de tener criaturas elemental en mano
-
-## 🔧 Personalización
-
-### Agregar nuevas categorías
-
-Edita `deck_analyzer.py` en el método `_categorize_cards()`:
-
-```python
-# Ejemplo: detectar planeswalkers
-if 'Planeswalker' in type_line:
-    categories['planeswalkers'].append(card_name)
-```
-
-### Modificar detección de ramp
-
-Edita `scryfall_api.py` en el método `_is_ramp_card()`:
-
-```python
-ramp_keywords = [
-    'add {',
-    'search your library for a land',
-    # Agrega más palabras clave
-]
-```
-
 ## 🐛 Solución de Problemas
 
 **Error al cargar archivo**:
@@ -216,11 +175,8 @@ Ingresa la ruta del archivo: C:/Users/Orion/Desktop/omnath_deck.csv
 ## 📄 Licencia
 
 Proyecto personal educativo. Úsalo libremente para tus mazos de Commander.
-
 ---
 
-**¡Good luck en tus partidas!** 🎴⚡
 
-*"From the earth grows the trees and from the trees flow the seas." - Omnath, Locus of the Roil*
 
 
