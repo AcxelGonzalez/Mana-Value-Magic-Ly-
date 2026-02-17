@@ -1,7 +1,5 @@
-# 🎴 Calculadora de Probabilidades MTG Commander
-
-**Por: Orion**  
-**Para: Mazos de Commander (optimizado para Omnath, Locus of the Roil)**
+**Por: Ly**  
+**Para: Mazos de Commander
 
 ## 📋 Descripción
 
@@ -289,3 +287,4 @@ Proyecto personal educativo. Úsalo libremente para tus mazos de Commander.
 **¡Good luck en tus partidas!** 🎴⚡
 
 *"From the earth grows the trees and from the trees flow the seas." - Omnath, Locus of the Roil*
+
