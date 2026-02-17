@@ -24,10 +24,10 @@ Aplicación CLI en Python que calcula probabilidades para Magic: The Gathering f
   - Robo de cartas
   
 ### 📈 Visualización
-- Curva de maná con gráficos ASCII
+- Curva de maná
 - Distribución de colores
 - Estadísticas completas del mazo
-- Tablas formateadas con resultados
+- Tablas formateadas
 
 ## 🚀 Instalación
 
@@ -59,71 +59,6 @@ python main.py
 4. Selecciona **"CSV"** o **"Text"**
 5. Descarga el archivo
 
-### 2. Cargar el mazo en la aplicación
-
-```
-🎮 MENÚ PRINCIPAL
-1. Cargar mazo
-2. Calcular probabilidades
-3. Ver estadísticas del mazo
-4. Salir
-
-Elige una opción: 1
-```
-
-Luego selecciona:
-- **Opción 1**: Cargar desde archivo (ingresa la ruta completa)
-- **Opción 2**: Cargar mazo de ejemplo (para probar)
-
-### 3. Ver estadísticas del mazo
-
-La aplicación automáticamente:
-- Consulta Scryfall para obtener datos de cada carta
-- Categoriza las cartas (tierras, ramp, criaturas, etc.)
-- Calcula curva de maná
-- Muestra distribución de colores
-
-### 4. Calcular probabilidades
-
-```
-🎲 CALCULAR PROBABILIDADES
-1. Probabilidad de tierras en mano
-2. Probabilidad de ramp temprano
-3. Probabilidad de elementales
-4. Probabilidad de interacción
-5. Cálculo personalizado
-6. Volver al menú principal
-```
-
-#### Ejemplos de uso:
-
-**🏔️ Tierras en mano inicial**:
-- ¿Qué probabilidad tengo de tener 2-4 tierras en mi mano de 7?
-- Respuesta: Muestra probabilidad exacta para cada cantidad
-
-**💎 Ramp temprano**:
-- Con 10 cartas de ramp, ¿qué chance tengo de robar al menos 1 en mis primeros 10 robos?
-
-**🔥 Elementales**:
-- ¿Probabilidad de tener un elemental en mano inicial para activar Omnath?
-
-**⚔️ Interacción**:
-- ¿Tengo removal o contrahechizo cuando lo necesito?
-
-**🎯 Cálculo personalizado**:
-- Define tus propios parámetros para cualquier carta o categoría
-
-## 📐 Teoría: Distribución Hipergeométrica
-
-La fórmula que usamos:
-
-$$P(X = k) = \frac{\binom{K}{k} \times \binom{N-K}{n-k}}{\binom{N}{n}}$$
-
-Donde:
-- **N** = Total de cartas en el mazo (99 en Commander sin el comandante)
-- **K** = Cartas del tipo que buscas (ej: 37 tierras)
-- **n** = Cartas robadas (ej: 7 en mano inicial)
-- **k** = Número deseado de ese tipo
 
 **¿Por qué hipergeométrica?**
 Porque MTG roba cartas **sin reemplazo** de un conjunto **finito**. No es como lanzar un dado (donde cada evento es independiente), sino como sacar bolas de una urna sin devolverlas.
@@ -287,4 +222,5 @@ Proyecto personal educativo. Úsalo libremente para tus mazos de Commander.
 **¡Good luck en tus partidas!** 🎴⚡
 
 *"From the earth grows the trees and from the trees flow the seas." - Omnath, Locus of the Roil*
+
 
