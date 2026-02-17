@@ -1,0 +1,80 @@
+1 Arcane Adaptation
+1 Arcane Signet
+1 Aven Fateshaper
+1 Baleful Strix
+1 Blustersquall
+1 Changeling Outcast
+1 Cloud of Faeries
+1 Cloudfin Raptor
+1 Command Tower
+1 Consign/Oblivion
+1 Cover of Darkness
+1 Crystal Grotto
+1 Cyclone Summoner
+1 Darkness of Eternity
+1 Dead Drop
+1 Dig Through Time
+1 Dispel
+1 Dokuchi Silencer
+1 Draco
+1 Enter the Enigma
+1 Escape Tunnel
+1 Evacuation
+1 Evolving Wilds
+1 Faerie Seer
+1 Fallen Shinobi
+1 Fated Return
+1 Funeral Room/Awakening Hall
+1 Gingerbrute
+1 Halimar Depths
+1 Il Mheg Pixie
+1 In Garruk's Wake
+1 Ingenious Infiltrator
+1 Ink-Eyes, Servant of Oni
+13 Island
+1 Kaito, Cunning Infiltrator
+1 Memnite
+1 Mischievous Sneakling
+1 Misdirection
+1 Mist-Cloaked Herald
+1 Mist-Syndicate Naga
+1 Mistblade Shinobi
+1 Moon-Circuit Hacker
+1 Moonblade Shinobi
+1 Mystic Remora
+1 Necromantic Selection
+1 Negate
+1 Nightveil Sprite
+1 Ninja of the Deep Hours
+1 Okiba-Gang Shinobi
+1 Opt
+1 Ornithopter
+1 Ponder
+1 Prosperous Thief
+1 Prying Eyes
+1 Rogue's Passage
+1 Run Away Together
+1 Secret Tunnel
+1 Sensei's Divining Top
+1 Sepulchral Primordial
+1 Silent-Blade Oni
+1 Silver-Fur Master
+1 Slither Blade
+1 Snaremaster Sprite
+1 Sol Ring
+1 Spectral Sailor
+1 Spell Pierce
+1 Succumb to the Cold
+10 Swamp
+1 Swan Song
+1 Tetsuko Umezawa, Fugitive
+1 Thassa, God of the Sea
+1 The Temporal Anchor
+1 Thought Vessel
+1 Thousand-Faced Shadow
+1 Throat Slitter
+1 Treasure Cruise
+1 Underground River
+1 Victimize
+
+1 Yuriko, the Tiger's Shadow
