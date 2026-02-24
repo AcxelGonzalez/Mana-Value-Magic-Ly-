@@ -163,19 +163,11 @@ Ingresa la ruta del archivo: C:/Users/Orion/Desktop/omnath_deck.csv
 ===============================================================
 ```
 
-## 🤝 Contribuciones
-
-¡Este es un proyecto personal pero abierto a mejoras! Ideas bienvenidas:
-- Interfaz gráfica (Tkinter/PyQt)
-- Versión web (Flask/Streamlit)
-- Más análisis estadísticos
-- Soporte para otros formatos de exportación
-- Tests unitarios
-
 ## 📄 Licencia
 
 Proyecto personal educativo. Úsalo libremente para tus mazos de Commander.
 ---
+
 
 
 
