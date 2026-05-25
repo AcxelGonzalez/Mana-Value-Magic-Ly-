@@ -1,9 +1,6 @@
-**Por: Ly**  
-**Para: Mazos de Commander
-
 ## 📋 Descripción
 
-Aplicación CLI en Python que calcula probabilidades para Magic: The Gathering formato Commander usando **Distribución Hipergeométrica**. Ideal para analizar mazos, optimizar construcción y calcular probabilidades de robo.
+Calcula probabilidades para Magic: The Gathering formato Commander usando **Distribución Hipergeométrica**. Ideal para analizar mazos, optimizar construcción y calcular probabilidades de robo.
 
 ## ✨ Características
 
